@@ -21,7 +21,7 @@ implementation and integration of this protocol into their applications.
 
 Gluon aims to simplify cross-language communication challenges and promote interoperability of simple applications.
 
-### Early development notice
+### ⚠️ Early development notice ⚠️
 Please note that this library is still in early development and not officially supported until the first release.
 
 # Table of contents
